@@ -54,6 +54,10 @@ python main.py
 
 4. **Display**: The original image, processing steps, and final scanned document are displayed.
 
+
+
+https://github.com/user-attachments/assets/483961af-071f-4754-96ef-1a2bf1cc1e79
+
 ## Functions
 
 - `preProcess(img)`: Prepares the image for contour detection.
